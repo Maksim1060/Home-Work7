@@ -98,7 +98,7 @@ public class Main {
     }
 
     public static void task7() {
-        System.out.println("Задача 7 ");
+        System.out.println("Задача 7  ");
         int friday = 6;
         int mounthDay = 31;
         while (friday<=mounthDay){
@@ -109,7 +109,7 @@ public class Main {
     }
 
     public static void task8() {
-        System.out.println("Задача 8");
+        System.out.println("Задача 8 ");
         int yearToDay =2023;
         for (int year= yearToDay-200; year<=yearToDay +100; year++){
             if (year%79==0){
